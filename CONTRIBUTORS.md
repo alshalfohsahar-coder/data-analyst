@@ -1,8 +1,6 @@
 # 🏆 Hall of Fame
 
-
-
-
+Julia Kutschke
 mzb11
 Vitaliy
 JackTheGitter
