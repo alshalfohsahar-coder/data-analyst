@@ -12,4 +12,4 @@ df = pd.DataFrame(data)
 
 grouped_df = df.groupby("Abteilung")["Gehalt"].mean().sort_values(ascending=False)
 
-print(f"Das gruppierte DataFrame ist:" {grouped_df})
+print(f"Das gruppierte DataFrame ist: {grouped_df}")
