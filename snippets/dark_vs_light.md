@@ -1,4 +1,4 @@
-## Dark Mode vs. Light Mode
+## Dark Mode vs. Light Mode (Hafiz Version)
 
 Ich arbeite persönlich lieber im Dark Mode, besonders wenn ich lange Zeit am Computer arbeite. Der Dark Mode ist für meine Augen angenehmer und reduziert die Belastung, vor allem am Abend oder in dunkleren Umgebungen.
 
