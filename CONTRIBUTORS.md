@@ -1,6 +1,7 @@
 # Hall of Fame
 
 Merlin
+daffodil332 (Sebastian)
 Amaya Zorrilla
 Jenny Krause (jen260920)
 hanyu1774
